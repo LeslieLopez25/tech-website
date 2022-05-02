@@ -438,6 +438,8 @@
 
 .services__card button:hover {
     cursor: pointer;
+    background: #4837ff;
+    transition: all 0.35s;
 }
 
 .services__card:hover {
